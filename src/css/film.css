@@ -1,0 +1,60 @@
+* {
+    font-size: 18px;
+    box-sizing: border-box;
+}
+
+.film{
+    padding-top: 70px;
+}
+
+.container {
+    width: 1920px;
+}
+
+.name-film {
+    color: black;
+}
+
+.year {
+    font-size: 23px;
+    font-weight: bold;
+}
+
+.genres{
+    font-weight: bold;
+    padding: 0 5px;
+}
+.country{
+    font-weight: bold;
+}
+
+.description{
+
+}
+.tim {
+    margin: 10px 0;
+}
+.timing{
+    margin: 20px 0;
+    padding: 5px;
+
+    font-size: 15px;
+    color: grey;
+    border: 1px solid grey;
+}
+
+.theme{
+    position: absolute;
+    top: 330px;
+    right: 50px;
+}
+
+.white-theme{
+    color: #212529;
+    background-color: white;
+}
+
+.dark-theme {
+    color: white;
+    background-color: #212529;
+}

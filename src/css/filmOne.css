@@ -1,0 +1,66 @@
+*{
+    box-sizing: border-box;
+}
+.team{
+    margin-top: 50px;
+    width: 1290px;
+}
+.acters{
+    width: 800px;
+    margin: 0 auto;
+    padding: 10px 0;
+
+    border: 1px solid black;
+}
+.acter{
+    width: 80px;
+    display: inline-block;
+    margin: 10px;
+}
+.tag{
+    position: relative;
+    display: inline-block;
+    left: -80px;
+    top: 50px;
+}
+.tag-act{
+    font-size: 15px;
+    position: absolute;
+    top: -105px;
+}
+
+.img-film-one{
+    display: inline-block;
+    width: 220px;
+    height: 340px;
+}
+
+.img-actor{
+    margin-left: 10px;
+
+    width: 40px;
+    height: 70px;
+}
+.name-actor{
+    display: block;
+    font-size: 11px;
+}
+
+.director{
+    margin: 15px 10px;
+    position: relative;
+}
+.tag-dir{
+    position: absolute;
+    font-size: 15px;
+    left: -80px;
+    top: 35px;
+}
+.name-director{
+    font-size: 11px;
+    display: block;
+}
+.name-filme {
+    margin: 10px 0;
+    font-size: 25px;
+}

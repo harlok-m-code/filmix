@@ -1,0 +1,93 @@
+{
+    "films":[
+        {
+            "id":1,
+            "imgUrl":"https://upload.wikimedia.org/wikipedia/ru/thumb/a/a5/Iron_man.jpg/224px-Iron_man.jpg",
+            "name":"Iron man",
+            "year":2008,
+            "country":"USA",
+            "timing": 120,
+            "genres":["Action", "Fiction", "Comics"],
+            "description":"Центральный персонаж фильма Железный человек — это гениальный изобретательсовместительству миллиардер и филантроп, о котором мечтают все женщины современности - Тони Старк.Живя совершенно беззаботной жизнью, изобретая оружие и прочее оборудование для армии США.",
+            "acters":[{ "name":"Robert Doney", "img":"https://avatars.mds.yandex.net/get-kinopoisk-image/1777765/badcb124-2d8c-455b-a8f6-ffd7459fc3be/360" }, 
+                {"name":"John Favreau", "img":"https://total3d.ru/assets/images/2011/october/Iron_Man_3_v_3d_3.jpg"},
+                {"name":"Гвинет Пэлтроу", "img":"http://t1.gstatic.com/licensed-image?q=tbn:ANd9GcSgE6NBoM-i76roAcsy3WRJbN9iI_BXBsxWRquhbFfgXCoSSmqHUySrI6jM8pMh"}],
+            "director":{"name":"John Favreau", "img":"https://total3d.ru/assets/images/2011/october/Iron_Man_3_v_3d_3.jpg"}
+        },
+        {
+            "id":2,
+            "imgUrl":"https://upload.wikimedia.org/wikipedia/ru/3/3c/The_Avengers_2012_logo.jpg",
+            "name":"Avengers",
+            "year":2012,
+            "country":"USA",
+            "timing":153,
+            "genres":["Action", "Fiction", "Comics", "Adventures"],
+            "description":"Таинственному Нику Фьюри удалось воплотить задуманное. Отыскав по всему миру самых ценных супергероев, он вовлек их в секретное международное подразделение под названием Щ.И.Т. Поводом для этого стала серьезная опасность, исходящая от злобного скандинавского бога Локи, пришедшего на Землю со своей могущественной армией, чтобы уничтожить известный нам мир. Теперь только Железный Человек, Капитан Америка, Халк, Тор, Соколиный Глаз и Черная Вдова смогут оказать сопротивление врагу и спасти человечество от страшной катастрофы.",
+            "acters":[{ "name":"Robert Doney", "img":"https://avatars.mds.yandex.net/get-kinopoisk-image/1777765/badcb124-2d8c-455b-a8f6-ffd7459fc3be/360" }, 
+                {"name":"Kris Evans", "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxv0xHLpicuYSehzNqP5YKhtRzQ6NHVNbIug&usqp=CAU"},
+                {"name":"scarlett johansson", "img":"https://thumbs.dreamstime.com/b/scarlett-johansson-e-146771645.jpg"},
+                {"name":"chris hemsworth", "img":"http://t0.gstatic.com/licensed-image?q=tbn:ANd9GcROzEC-B7v1i8RRS5Od8uqmvQoyYF68eKXML8JC2XKcLAUWtxeodclZYHDcdxJj"}
+            ],
+            "director":{"name":"Джосс Уидон", "img":"https://thumbs.dfs.ivi.ru/storage38/contents/4/f/052516ed6afac76d29c4762ee35a95.jpg"}
+        },
+        {
+            "id":3,
+            "imgUrl":"https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTg7OoWThn36PW-ss36zqlDvJ0eMuhQ03owbwBeVDA4RVkE2ROu",
+            "name":"Мстители: Эра Альтрона",
+            "year":2015,
+            "country":"USA",
+            "timing":141,
+            "genres":["Action", "Adventures", "Comics","Fiction"],
+            "description":"Человечество на грани уничтожения. На этот раз людям угрожает Альтрон — искусственный интеллект, ранее созданный для того, чтобы защищать Землю от любых угроз. Однако, главной угрозой он посчитал человечество. Международная организация Щ.И.Т. распалась, и теперь мир не способен справиться с таким мощным врагом, потому люди вновь обращаются за помощью к Величайшим Героям Земли — Мстителям. Однако Альтрон слишком силен, и есть большая вероятность, что даже им не удастся остановить начало надвигающейся Эры Альтрона, где нет места для людей…",
+            "acters":[{ "name":"Robert Doney", "img":"https://avatars.mds.yandex.net/get-kinopoisk-image/1777765/badcb124-2d8c-455b-a8f6-ffd7459fc3be/360" }, 
+                {"name":"Kris Evans", "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxv0xHLpicuYSehzNqP5YKhtRzQ6NHVNbIug&usqp=CAU"},
+                {"name":"scarlett johansson", "img":"https://thumbs.dreamstime.com/b/scarlett-johansson-e-146771645.jpg"},
+                {"name":"chris hemsworth", "img":"http://t0.gstatic.com/licensed-image?q=tbn:ANd9GcROzEC-B7v1i8RRS5Od8uqmvQoyYF68eKXML8JC2XKcLAUWtxeodclZYHDcdxJj"}],
+            "director":{"name":"Джосс Уидон", "img":"https://thumbs.dfs.ivi.ru/storage38/contents/4/f/052516ed6afac76d29c4762ee35a95.jpg"}
+
+        },
+        {
+            "id":4,
+            "name":"Мстители: Война бесконечности",
+            "imgUrl":"https://upload.wikimedia.org/wikipedia/ru/4/4d/Avengers_Infinity_War_poster.jpg",
+            "year":2018,
+            "country":"USA",
+            "timing":141,
+            "genres":["Action", "Adventures", "Comics","Fiction"],
+            "description":"Человечество на грани уничтожения. На этот раз людям угрожает Альтрон — искусственный интеллект, ранее созданный для того, чтобы защищать Землю от любых угроз. Однако, главной угрозой он посчитал человечество. Международная организация Щ.И.Т. распалась, и теперь мир не способен справиться с таким мощным врагом, потому люди вновь обращаются за помощью к Величайшим Героям Земли — Мстителям. Однако Альтрон слишком силен, и есть большая вероятность, что даже им не удастся остановить начало надвигающейся Эры Альтрона, где нет места для людей…",
+            "acters":[{ "name":"Robert Doney", "img":"https://avatars.mds.yandex.net/get-kinopoisk-image/1777765/badcb124-2d8c-455b-a8f6-ffd7459fc3be/360" }, 
+                {"name":"Kris Evans", "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxv0xHLpicuYSehzNqP5YKhtRzQ6NHVNbIug&usqp=CAU"},
+                {"name":"scarlett johansson", "img":"https://thumbs.dreamstime.com/b/scarlett-johansson-e-146771645.jpg"},
+                {"name":"chris hemsworth", "img":"http://t0.gstatic.com/licensed-image?q=tbn:ANd9GcROzEC-B7v1i8RRS5Od8uqmvQoyYF68eKXML8JC2XKcLAUWtxeodclZYHDcdxJj"}],
+            "director":{"name":"Джосс Уидон", "img":"https://thumbs.dfs.ivi.ru/storage38/contents/4/f/052516ed6afac76d29c4762ee35a95.jpg"}
+        },
+        {
+            "id":5,
+            "name":"Мстители: война бесконечности 2",
+            "imgUrl":"https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRvT1-_-HEbugPo6K_IPqx3tYSXDXOSzw9ZGeNOsB-iit8zf752",
+            "year":2019,
+            "timing":182,
+            "country":"USA",
+            "genres":["Action", "Adventures", "Comics","Fiction"],
+            "description":"Человечество на грани уничтожения. На этот раз людям угрожает Альтрон — искусственный интеллект, ранее созданный для того, чтобы защищать Землю от любых угроз. Однако, главной угрозой он посчитал человечество. Международная организация Щ.И.Т. распалась, и теперь мир не способен справиться с таким мощным врагом, потому люди вновь обращаются за помощью к Величайшим Героям Земли — Мстителям. Однако Альтрон слишком силен, и есть большая вероятность, что даже им не удастся остановить начало надвигающейся Эры Альтрона, где нет места для людей…",
+            "acters":[{ "name":"Robert Doney", "img":"https://avatars.mds.yandex.net/get-kinopoisk-image/1777765/badcb124-2d8c-455b-a8f6-ffd7459fc3be/360" }, 
+                {"name":"Kris Evans", "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxv0xHLpicuYSehzNqP5YKhtRzQ6NHVNbIug&usqp=CAU"},
+                {"name":"scarlett johansson", "img":"https://thumbs.dreamstime.com/b/scarlett-johansson-e-146771645.jpg"},
+                {"name":"chris hemsworth", "img":"http://t0.gstatic.com/licensed-image?q=tbn:ANd9GcROzEC-B7v1i8RRS5Od8uqmvQoyYF68eKXML8JC2XKcLAUWtxeodclZYHDcdxJj"}],
+            "director":{"name":"Джосс Уидон", "img":"https://thumbs.dfs.ivi.ru/storage38/contents/4/f/052516ed6afac76d29c4762ee35a95.jpg"}
+        },
+        {
+            "id":6,
+            "name":"Удивительное путешествие доктора Дулиттла",
+            "imgUrl":"https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/473fcb4f-42e3-497c-822c-d8b775f7f8c5/300x450",
+            "year":2020,
+            "description":"Центральный персонаж фильма Железный человек — это гениальный изобретательсовместительству миллиардер и филантроп, о котором мечтают все женщины современности - Тони Старк.Живя совершенно беззаботной жизнью, изобретая оружие и прочее оборудование для армии США.",
+            "country":"USA",
+            "timing":101,
+            "genres":["Fiction","Adventures","Comedy"],
+            "acters":[{"name":"Robert Doney", "img":"https://avatars.mds.yandex.net/get-kinopoisk-image/1777765/badcb124-2d8c-455b-a8f6-ffd7459fc3be/360"}],
+            "director":{"name":"стивен гейган","img":"https://static.more.tv/actor/avatar/5fea32b5d022b.jpeg"}
+        }   
+    ] 
+}
+

@@ -1,0 +1,58 @@
+* {
+    box-sizing: border-box;
+}
+
+.main {
+    padding-top: 5px;
+    width: 1920px;
+}
+.nav-main {
+    width: 1200px;
+    margin: 0 auto;
+}
+
+.nav-link {
+    font-size: 20px;
+    font-weight: 500;
+    color: white;
+}
+
+.active {
+    border: 2px solid;
+    border-radius: 25px;
+}
+
+.film-i {
+    width: 300px;
+
+    display: inline-block;
+    margin: 0 30px;
+}
+.name-film {
+    color: white;
+    font-weight: 500;
+    font-size: 20px;
+
+    text-align: center;
+}
+
+.film-i:hover {
+    margin: 20px 30px;
+
+    transform: scale(1.1);
+    transition: all 0.3s linear;
+}
+
+
+.film-img {
+    width: 220px;
+    height: 320px;
+
+    border-radius: 5px;
+    margin: 10px 40px;
+}
+
+.film-img:hover {
+    box-shadow: 1px 1px 3px 2px white;
+    transition: all 0.3s linear;
+}
